@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sanyabhagat
 - 👀 I’m interested in data analysis/science/visualization, machine learning, and AI
-- 🌱 I’m currently learning the basis of creating an accurate ML model
 - 📫 Email: sanya@gsscanada.com | LinkedIn: www.linkedin.com/in/sanyabhagat
 
 <!---
